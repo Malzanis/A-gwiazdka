@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jan 19 14:37:07 2019
 
-@author: malzanis
-"""
 
 class Mapa(object):
     def __init__(self):
